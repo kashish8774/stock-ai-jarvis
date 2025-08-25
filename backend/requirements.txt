@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+yfinance
+numpy
+pandas
+TA-Lib
